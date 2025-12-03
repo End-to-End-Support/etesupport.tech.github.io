@@ -1,10 +1,13 @@
-Coming Soon
-===========
-Coming Soon is a simplistic, animated and responsive "coming soon" page.
+# Animated Under Construction Template
 
-- HTML and CSS
-- Multi-Browser Support (Up to Date Major Browsers)
-- Responsive Design
+View the demo [here.](https://tmkamal.github.io/under-construction-template/)
+``` 
+Feel free to use this template for your upcoming projects.
+```
+This template has been built using SVG animation with CSS3.
 
-[Demo](http://yc.github.io/coming-soon/)
-<img src="index.svg" width="960" height="540" />
+## Preview
+
+> Actual template is a lot smoother than this.  
+
+![Preview](https://github.com/tmKamal/hosted-images/blob/master/under-construction/Document.gif?raw=true)<br/>  
